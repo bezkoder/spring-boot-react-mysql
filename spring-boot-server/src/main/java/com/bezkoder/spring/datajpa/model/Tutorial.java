@@ -1,6 +1,6 @@
-package com.bezkoder.integrate.spring.react.model;
+package com.bezkoder.spring.datajpa.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "tutorials")

@@ -1,9 +1,11 @@
-# How to integrate React.js with Spring Boot (run on same Server/Port)
+# Spring Boot + React + MySQL: CRUD example
 
 For more detail, please visit:
 > [How to integrate Spring Boot with React.js](https://bezkoder.com/integrate-reactjs-spring-boot/)
 
 > [React (Components) CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/)
+
+> [React (Hooks) CRUD example to consume Web API](https://bezkoder.com/react-hooks-crud-axios-api/)
 
 > [Spring Boot JPA - Building Rest CRUD API example](https://bezkoder.com/spring-boot-jpa-crud-rest-api/)
 
